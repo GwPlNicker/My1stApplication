@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Мое Первое Приложение</string>
+    <string name="Lbl_One">Текущее время: </string>
+    <string name="Action_Settings">Настройки</string>
+    <string name="Action_Exit">Выход</string>
+    <string name="RBut_01">Настройки 1</string>
+    <string name="RBut_02">Настройки 2</string>
+    <string name="RBut_03">Настройки 3</string>
+    <string name="RBut_04">Настройки 4</string>
+
+</resources>
